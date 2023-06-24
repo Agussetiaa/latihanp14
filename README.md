@@ -1,4 +1,7 @@
 ## Latihan pertemuan 14
+## Sub Query
+
+<img width="681" alt="image" src="https://github.com/Agussetiaa/latihanp14/assets/115542822/f00f2fb8-b743-487b-a63c-c893bf6e2cc5">
 
 ### • Tampilkan data karyawan yang bekerja pada departemen yang sama dengan karyawan yang bernama Dika =
 
@@ -14,6 +17,9 @@
 ![image](https://github.com/Agussetiaa/latihanp14/assets/115542822/5d8dcefa-efa1-437c-8ac0-13b500e5179a)
 
 ### • Tampilkan data karyawan yang bekerja pada departemen yang ada di kantor pusat. = 
+
+<img width="364" alt="image" src="https://github.com/Agussetiaa/latihanp14/assets/115542822/727dffa2-ef0a-4f5f-bcdc-ac3333ef8fc7">
+
 
 ![image](https://github.com/Agussetiaa/latihanp14/assets/115542822/431d8364-ba7e-41bf-bc6e-df23f00071c5)
 
