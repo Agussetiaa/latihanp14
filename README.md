@@ -1,6 +1,8 @@
 ## Latihan pertemuan 14
 ## Sub Query
 
+### Studi Kasus : ERD Karyawan
+
 <img width="681" alt="image" src="https://github.com/Agussetiaa/latihanp14/assets/115542822/f00f2fb8-b743-487b-a63c-c893bf6e2cc5">
 
 ### • Tampilkan data karyawan yang bekerja pada departemen yang sama dengan karyawan yang bernama Dika =
