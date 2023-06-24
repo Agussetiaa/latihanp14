@@ -4,21 +4,6 @@
 <img width="681" alt="image" src="https://github.com/Agussetiaa/latihanp14/assets/115542822/f00f2fb8-b743-487b-a63c-c893bf6e2cc5">
 
 ### • Tampilkan data karyawan yang bekerja pada departemen yang sama dengan karyawan yang bernama Dika =
-```
-SELECT *
-```
-```
-FROM karyawan
-```
-```
-WHERE id_dept = (
-```
-```
-SELECT id_dept FROM karyawan
-```
-```
-WHERE nama = 'dika');
-```
 
 
 ![image](https://github.com/Agussetiaa/latihanp14/assets/115542822/e59ee4eb-be46-49e6-a330-64a1c1029f72)
